@@ -1,0 +1,64 @@
+/home/moutdimi/Lab5
+log
+total 4
+-rw-rw-r-- 1 moutdimi moutdimi 24 Dec 19 08:43 log
+.
+..
+log
+-bash: cd: /home/moutdimi/errordir: No such file or directory
+mkdir: cannot create directory ‘TestDir’: File exists
+  File: log
+  Size: 212       	Blocks: 8          IO Block: 4096   regular file
+Device: 811h/2065d	Inode: 307287      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1235/moutdimi)   Gid: ( 1237/moutdimi)
+Access: 2024-12-19 08:50:59.977670701 +0200
+Modify: 2024-12-19 08:50:42.857490688 +0200
+Change: 2024-12-19 08:50:42.857490688 +0200
+ Birth: -
+cp: cannot stat 'errorexample': No such file or directory
+cp: missing destination file operand after 'errorexample'
+Try 'cp --help' for more information.
+mv: 'log' and 'log' are the same file
+mv: cannot stat 'errorexample': No such file or directory
+rm: cannot remove 'errorfile': No such file or directory
+./example.txt
+./example2.txt
+./example.sh
+./example2.sh
+/home/moutdimi/Lab3/OS/Lab01/tarball.tar.gz
+/home/moutdimi/Lab3/OS/Lab02/tarball.tar.gz
+/home/moutdimi/tarball.tar.gz
+/home/moutdimi/OS/Lab01/tarball.tar.gz
+/home/moutdimi/OS/Lab02/tarball.tar.gz
+This is example.txt! This line will be appended to log!
+This is example.txt! This line will be appended to log!
+1 This file contains 20 lines, each with its corresponding number!
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20 This file contains 20 lines,each with its corresponding nubmer!
+1 This file contains 20 lines, each with its corresponding number!
+2
+3
+4
+5
+6
+7
+8
+9
+10
